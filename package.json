@@ -1,0 +1,7 @@
+{
+  "name": "deeplx",
+  "packageManager": "yarn@4.9.1",
+  "devDependencies": {
+    "@deeplx/core": "^0.1.2"
+  }
+}
